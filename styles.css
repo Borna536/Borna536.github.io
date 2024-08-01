@@ -16,12 +16,59 @@
     color: white;
     text-shadow:0 4px 8px rgba(0, 0, 0, 0.3) ;
     display: flex;
-    justify-content:center;
-}
+    justify-content:center;}
+
+.headerD{
+    color: white;
+    display: flex;
+    justify-content:center;}
+
 .boxpremiere{
-    height: 100px;
-    width: 400px;
+    margin-top: 200px;
+    height: 130px;
+    width: 550px;
     border: 1px solid black;
     border-radius: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    background: linear-gradient(135deg, #9300D1, #A900D9);
+    box-shadow: 0 0px 14px rgba(0, 0, 0, 0.3);
 
 }
+.premieretext
+{
+    color: white;
+    text-shadow:0 4px 8px rgba(0, 0, 0, 0.3) ;
+    display: flex;
+    justify-content:center;}
+
+.premiererD
+    {
+        color: white;
+        display: flex;
+        justify-content:center;}
+
+
+.boxAfterEffects{
+    margin-top: 100px;
+    height: 130px;
+    width: 550px;
+    border: 1px solid black;
+    border-radius: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    background: linear-gradient(135deg, #4431b6, #981DFB);
+    box-shadow: 0 0px 14px rgba(0, 0, 0, 0.3);}
+
+    .AfterEffectstext
+    {
+        color: white;
+        text-shadow:0 4px 8px rgba(0, 0, 0, 0.3) ;
+        display: flex;
+        justify-content:center;}
+    
+    .AfterEffectsD
+        {
+            color: white;
+            display: flex;
+            justify-content:center;}
