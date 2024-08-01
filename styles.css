@@ -10,6 +10,18 @@
             border-bottom-left-radius: 20px;
             border-bottom-right-radius: 20px;
             background: linear-gradient(135deg, #f7c300, #6a1b9a, #00bcd4); /* Yellow, Purple, Blue Gradient */
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
-            position: relative;
-            overflow: hidden;}
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);}
+.headertext
+{
+    color: white;
+    text-shadow:0 4px 8px rgba(0, 0, 0, 0.3) ;
+    display: flex;
+    justify-content:center;
+}
+.boxpremiere{
+    height: 100px;
+    width: 400px;
+    border: 1px solid black;
+    border-radius: 20px;
+
+}
